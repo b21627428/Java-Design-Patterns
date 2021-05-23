@@ -3,7 +3,6 @@ package Behavioral.CommandPattern.Layer;
 import Behavioral.CommandPattern.Entity.Record;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.function.Predicate;
 
