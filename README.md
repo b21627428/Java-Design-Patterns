@@ -42,6 +42,8 @@ Behavioral patterns are about identifying common communication patterns between
 
 </ul>
 
+<h4> SOLID PRINCIPLES </h4>
+https://gokhana.medium.com/solid-nedir-solid-yaz%C4%B1l%C4%B1m-prensipleri-nelerdir-40fb9450408e
 
 
 </div>
